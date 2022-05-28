@@ -1,4 +1,4 @@
-#include<stdio.h>  
+#include<stdio.h>
  int main()    
 {    
 int n, reverse=0, rem;    
@@ -11,5 +11,4 @@ int n, reverse=0, rem;
   }    
   printf("%d",reverse);    
 return 0;  
-}   
-
+}
